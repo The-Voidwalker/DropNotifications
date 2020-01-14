@@ -17,3 +17,5 @@ By default the following items will generate a notification:
 * Hallowed Key
 * Jungle Key
 * Rod of Discord
+
+Added Github support
