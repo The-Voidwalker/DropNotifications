@@ -1,0 +1,19 @@
+Ever been farming for something, only to find that it had already dropped and you had no idea?
+
+Ever wanted for a notification to be generated in chat when a rare item drops?
+
+Well, u/AnArousedKoalaaa did, so here we are.
+
+This mod generates a chat notification whenever a rare item is dropped into the world. The notification is generated whenever the item drops, and it should not be generated if dropped by a player.
+
+By default the following items will generate a notification:
+* Coin Gun
+* Discount Card
+* Lucky Coin
+* Slime Staff
+* Corruption Key
+* Crimson Key
+* Frozen Key
+* Hallowed Key
+* Jungle Key
+* Rod of Discord
